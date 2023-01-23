@@ -16,7 +16,7 @@ const Hero = () => (
       voluptatibus distinctio recusandae autem esse explicabo molestias officia
       placeat, accusamus aut saepe.
     </p>
-    <div className="grid grid-cols-3 gap-8 border-gray-400">
+    <div className="bg-grey-600 grid grid-cols-3 gap-8 border-gray-100">
       <div>One of three columns</div>
       <div>One of three columns</div>
       <div>One of three columns</div>
